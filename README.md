@@ -41,6 +41,10 @@ I transform development workflows through cloud-native solutions and automation.
 ![React](https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-System_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 📂 Repository Index
+### DevOps & Automation
+- [system-maintenance-scripts](https://github.com/RG0901/system-maintenance-scripts) - System info collector and log cleaner scripts
+
 ## 📊 GitHub Analytics
 [![Rahul's GitHub DNA](https://github-readme-stats.vercel.app/api?username=RG0901&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/RG0901)
 
