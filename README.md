@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## 📊 GitHub Analytics
+[![Rahul's GitHub DNA](https://github-readme-stats.vercel.app/api?username=RG0901&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/RG0901)
+
+[![My Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=RG0901&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6)](https://github.com/RG0901)
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC_Specialist-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 -->
@@ -44,11 +48,6 @@ I transform development workflows through cloud-native solutions and automation.
 ## 📂 Repository Index
 ### DevOps & Automation
 - [system-maintenance-scripts](https://github.com/RG0901/system-maintenance-scripts) - System info collector and log cleaner scripts
-
-## 📊 GitHub Analytics
-[![Rahul's GitHub DNA](https://github-readme-stats.vercel.app/api?username=RG0901&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000)](https://github.com/RG0901)
-
-[![My Tech Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=RG0901&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6)](https://github.com/RG0901)
 
 ## 📜 Highlighted Certifications
 - **RHCSA** - Red Hat Certified System Administrator
